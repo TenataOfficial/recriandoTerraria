@@ -1,0 +1,8 @@
+C:\Users\Tenataz\Documents\SharpDevelop Projects\nossojogo\nossojogo\bin\Debug\nossojogo.exe.config
+C:\Users\Tenataz\Documents\SharpDevelop Projects\nossojogo\nossojogo\bin\Debug\nossojogo.exe
+C:\Users\Tenataz\Documents\SharpDevelop Projects\nossojogo\nossojogo\bin\Debug\nossojogo.pdb
+C:\Users\Tenataz\Documents\SharpDevelop Projects\nossojogo\nossojogo\obj\Debug\nossojogo.vbprojResolveAssemblyReference.cache
+C:\Users\Tenataz\Documents\SharpDevelop Projects\nossojogo\nossojogo\obj\Debug\nossojogo.MainForm.resources
+C:\Users\Tenataz\Documents\SharpDevelop Projects\nossojogo\nossojogo\obj\Debug\nossojogo.vbproj.GenerateResource.Cache
+C:\Users\Tenataz\Documents\SharpDevelop Projects\nossojogo\nossojogo\obj\Debug\nossojogo.exe
+C:\Users\Tenataz\Documents\SharpDevelop Projects\nossojogo\nossojogo\obj\Debug\nossojogo.pdb
